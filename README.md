@@ -10,6 +10,7 @@ that's been available on the interwebs for years.
 * [1997] [Amiga Info #1 | Mikael Fors](https://dmzarkivet.se/pager.cfm?issue=199701&page=36&ai=1) The Swedish artical that seems to have started it all.
 * [1998] [Aminet 4IDE.lha](https://aminet.net/package/docs/hard/4IDE)
 * [2003] [Roberto Ragusa](https://web.archive.org/web/20201101015014/https://members.xoom.virgilio.it/amigazette/numero_01/4ide.html) An Italian doc describing 4IDE
+* [2016] [Fook42 @ a1k.org](https://www.a1k.org/forum/index.php?threads/57103/) The standard one, orderable at OSH Park
 * [2019] [Gianluca Renzi](https://github.com/gianlucarenzi/4IDEAdapter) A neat
 adapter for the A1200 referencing 4IDE.  I like the on-board LEDs!
 
