@@ -1782,7 +1782,7 @@
 		)
 		(uuid "2f3446c3-c607-4231-9665-f076e31acbb2")
 	)
-	(label "VSS"
+	(label "D7"
 		(at 73.66 57.15 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2618,7 +2618,7 @@
 		)
 		(uuid "c2e61611-4789-4029-90f7-ea981cadc966")
 	)
-	(label "VSS"
+	(label "D7"
 		(at 135.89 57.15 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2695,7 +2695,7 @@
 		)
 		(uuid "d6f91590-4c86-4c9a-8a02-2f33dadedb71")
 	)
-	(label "VSS"
+	(label "D7"
 		(at 200.66 57.15 180)
 		(fields_autoplaced yes)
 		(effects
